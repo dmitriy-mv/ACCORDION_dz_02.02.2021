@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="055bb23a-20aa-4f0e-bdc2-06bb994eb467" name="Default Changelist" comment="" />
+    <list default="true" id="055bb23a-20aa-4f0e-bdc2-06bb994eb467" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nuo1nJGSfX276kUXth7BgzF6Kg" />
   <component name="ProjectViewState">
@@ -48,6 +53,8 @@
       <updated>1612249124744</updated>
       <workItem from="1612249125758" duration="1794000" />
       <workItem from="1612251289807" duration="1794000" />
+      <workItem from="1612254167299" duration="876000" />
+      <workItem from="1612255050684" duration="508000" />
     </task>
     <servers />
   </component>
