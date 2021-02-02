@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body {
+    background-color: #dedede;
+}
+.container {
+    width: 1000px;
+    margin: 1rem auto;
+    padding: 2.5rem;
+    background-color: #fff;
+    border-radius: 0.5rem;
+    box-shadow: rgba(0,0,0,.2) 0 5px 15px;
+}

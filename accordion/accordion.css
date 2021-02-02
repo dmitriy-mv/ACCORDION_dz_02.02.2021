@@ -1,0 +1,30 @@
+.accordion {
+    display: flex;
+    flex-direction: column;
+}
+.accordion-item__header {
+    background-color: #ccd8ff;
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    user-select: none;
+    cursor: pointer;
+}
+.accordion-item__header::after {
+    display: block;
+    content: '+';
+    transition: .3s ease;
+}
+.accordion .accordion-item.opened .accordion-item__header::after {
+    transform: rotate(135deg);
+}
+.accordion-item__content {
+    padding: 1em 1em 2em;
+    transform-origin: 0% 0%;
+}
+.accordion-item {
+    border: 1px solid #becdff;
+    overflow: hidden;
+    transition: .3s ease;
+}
